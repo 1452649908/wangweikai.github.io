@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/1452649908/wangweikai.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1452649908/wangweikai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 自我评价
+#### 做事谨慎,有责任感,有较强的组织能力和活动策划能力,文笔流畅,有较强的团队精神,但常因怕担风险而思想保守。
+### 个人信息
+#### 姓名：王威凯
+#### 性别：男
+#### 学历：本科
+#### 专业：通信工程
+#### 院校：浙江万里学院
+#### 曾任职务：学习委员
+#### 联系电话：13666458199
+#### QQ邮箱：1452649908@qq.com
+### 最新消息
+#### 义务献血，参加了宣传禁毒的志愿者活动
+### 研究方向
+#### 信息的传输、交换和处理,以及在计算机通信、数字通信、卫星通信、光纤通信等方面的理论和工程应用问题。
+### 项目研究
+#### 现无
+### 荣誉奖励
+#### 高中篮球班级赛冠军，优秀团干部
